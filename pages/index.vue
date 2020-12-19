@@ -3,6 +3,7 @@
     <div>
       <Logo :width="350" />
       <h1 class="title">🥳🥳🥳🥳🥳</h1>
+      this is diff!
       <h2 class="subtitle">Starter for CodeSandBox</h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green"
